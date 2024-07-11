@@ -62,7 +62,6 @@ dependencies {
 
     testImplementation(libs.androidx.room.testing)
     androidTestImplementation(libs.androidx.room.testing)
-
     testImplementation(libs.androidx.core.testing)
     androidTestImplementation(libs.androidx.core.testing)
 
